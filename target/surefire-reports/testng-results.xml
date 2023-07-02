@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-30T18:35:41 IDT" name="Suite" finished-at="2023-06-30T18:36:00 IDT" duration-ms="19113">
+    <groups>
+    </groups>
+    <test started-at="2023-06-30T18:35:41 IDT" name="Test" finished-at="2023-06-30T18:36:00 IDT" duration-ms="19113">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:35:41 IDT" name="setup" finished-at="2023-06-30T18:35:49 IDT" duration-ms="8012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc01_getTableCellText()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:35:49 IDT" name="tc01_getTableCellText" finished-at="2023-06-30T18:35:54 IDT" duration-ms="5266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_getTableCellText -->
+        <test-method signature="tc02_verifyTableCellText()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:35:55 IDT" name="tc02_verifyTableCellText" finished-at="2023-06-30T18:35:57 IDT" duration-ms="1417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_verifyTableCellText -->
+        <test-method signature="tc03_getTableCellTextByXpath()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:35:57 IDT" name="tc03_getTableCellTextByXpath" finished-at="2023-06-30T18:35:58 IDT" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_getTableCellTextByXpath -->
+        <test-method signature="tc04_getTableCellTextWithColumnName()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:35:58 IDT" name="tc04_getTableCellTextWithColumnName" finished-at="2023-06-30T18:35:59 IDT" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_getTableCellTextWithColumnName -->
+        <test-method signature="tc05_verifyTableCellTextWithColumnName()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:35:59 IDT" name="tc05_verifyTableCellTextWithColumnName" finished-at="2023-06-30T18:35:59 IDT" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_verifyTableCellTextWithColumnName -->
+        <test-method signature="tc06_getTableCellTextByXpathWithColumnName()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:35:59 IDT" name="tc06_getTableCellTextByXpathWithColumnName" finished-at="2023-06-30T18:36:00 IDT" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc06_getTableCellTextByXpathWithColumnName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.HomePageTest@29182679]" started-at="2023-06-30T18:36:00 IDT" name="tearDown" finished-at="2023-06-30T18:36:00 IDT" duration-ms="648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
